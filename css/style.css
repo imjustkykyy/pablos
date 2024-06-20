@@ -880,4 +880,28 @@ a:focus {
 .footer_section p a {
   color: inherit;
 }
+
+
+em{
+
+  color: red;
+}
+
+
+
+em1{
+
+  color: green;
+}
+
+
+em2{
+
+  color: lightcoral;
+}
+
+em3{
+
+  color: royalblue;
+}
 /*# sourceMappingURL=style.css.map */
